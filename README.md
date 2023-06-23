@@ -7,6 +7,7 @@ This is a simple Angular POC created by Abhishek Choubey. <br/>
 In this POC I tried to demonstrate simple routing examples. <br/>
 
 Here, I demonstrated the use of redirecting routes, [routerLink] , Child Routes, Nested Routes, Nesting Child Routes,  <br/>
+Used Location service and ActivatedRoute service,
 
 <b> Parameterize Route using <b/> <br/>
 • route.snapshot.param <br/>
